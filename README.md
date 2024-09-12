@@ -21,4 +21,4 @@ Time_series_analysis_2024:
   This notebook is for performing time series analysis. It has three main sections, the first for checking relative age distributions between
   certain upgrades (for example, the relationship between Solar PV and reroof install times), the second for checking upgrade installation
   distribution by year, and the third for checking upgrade distribution vs. the year of the property was built. 
-  NOTE: NOT UPLOADED TO REPO AS OF 9/12/2024
+  NOTE: Needs documentation
