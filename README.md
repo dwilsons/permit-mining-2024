@@ -20,5 +20,6 @@ Clustering_2024:
 Time_series_analysis_2024:
   This notebook is for performing time series analysis. It has three main sections, the first for checking relative age distributions between
   certain upgrades (for example, the relationship between Solar PV and reroof install times), the second for checking upgrade installation
-  distribution by year, and the third for checking upgrade distribution vs. the year of the property was built. 
-  NOTE: Needs documentation
+  distribution by year, and the third for checking upgrade distribution vs. the year of the property was built (as well as likelihood vs. year built). 
+  NOTE: Needs some editing to work with new property data format but nothing significant, essentially just taking specific columns from the main
+      property upgrade dataframe instead of loading different files for each section
